@@ -1,7 +1,7 @@
 <?php
 
-$username = "id16852325_root";
-$password = "Aim@15102002";
+$username = "";
+$password = "";
 $server = "localhost";
 $db = "id16852325_grip_may21";
 
